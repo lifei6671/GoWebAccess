@@ -8,6 +8,6 @@
 </head>
 
 <body>
-
+    <div>博客首页</div>
 </body>
 </html>
